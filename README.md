@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alalai012
-- 👀 I’m interested in Android / Web IoT- C C++ JAVA Android HTML CSS JavaScript
+- 👀 I’m interested in Android / Web IoT
 - 🌱 I’m currently learning Vue.js, JSP, Spring, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tjswn0125@naver.com
