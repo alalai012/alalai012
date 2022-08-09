@@ -8,7 +8,7 @@ Studycation ~ 2022.09.01
 You can see me in https://github.com/mimimya
 
 
-![image](https://user-images.githubusercontent.com/65814554/183549552-c4faeef2-96f7-4fa4-83a2-ab2f2bc3ea55.png)
+![mua-kiss](https://user-images.githubusercontent.com/65814554/183550164-de117637-e26c-4826-95b5-6967dc82b830.gif)
 
 
 <!---
